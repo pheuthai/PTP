@@ -79,3 +79,7 @@ img {
     padding-left: 1rem;
     padding-right: 1rem;
 }
+
+a {
+    text-decoration: inherit;
+}

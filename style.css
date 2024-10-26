@@ -13,7 +13,7 @@
     background-color: #C01528;
 }
 .justify-start {
-    justify-content: flex-start;
+    justify-content: space-around;
 }
 .items-center {
     align-items: center;

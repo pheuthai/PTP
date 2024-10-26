@@ -27,3 +27,55 @@
 .fixed {
     position: fixed;
 }
+
+.px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.h-6 {
+    height: 1.5rem;
+}
+
+img {
+    border-style: none;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+.text-ui-background, .text-white {
+    --tw-text-opacity: 1;
+    color: #fff;
+}
+.justify-start {
+    justify-content: flex-start;
+}
+
+.duration-200 {
+    transition-duration: .2s;
+}
+.transition-all {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .15s;
+}
+.decoration-gray-30 {
+    text-decoration-color: #c6c6c6;
+}
+.no-underline {
+    text-decoration-line: none;
+}
+.text-gray-30 {
+    --tw-text-opacity: 1;
+    color: rgb(198 198 198 / var(--tw-text-opacity));
+}
+.px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

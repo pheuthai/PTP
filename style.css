@@ -1,0 +1,9 @@
+.w-full {
+    width: 100%;
+}
+.h-12 {
+    height: 3rem;
+}
+.z-50 {
+    z-index: 50;
+}

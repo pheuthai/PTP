@@ -73,7 +73,7 @@ img {
 }
 .text-gray-30 {
     --tw-text-opacity: 1;
-    color: rgb(198 198 198 / var(--tw-text-opacity));
+    color: #fff;
 }
 .px-4 {
     padding-left: 1rem;

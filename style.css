@@ -7,3 +7,23 @@
 .z-50 {
     z-index: 50;
 }
+
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color: #C01528;
+}
+.justify-start {
+    justify-content: flex-start;
+}
+.items-center {
+    align-items: center;
+}
+.flex {
+    display: flex;
+}
+.top-0 {
+    top: 0;
+}
+.fixed {
+    position: fixed;
+}

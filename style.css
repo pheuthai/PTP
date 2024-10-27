@@ -80,7 +80,7 @@ img {
 }
 .text-gray-30 {
     --tw-text-opacity: 1;
-    color: #fff;
+    color: #C01528;
 }
 .px-4 {
     padding-left: 1rem;
@@ -97,4 +97,4 @@ header ul{
 }
 
 header ul li a p{border-bottom: 1px solid transparent;}
-header ul li a p:hover{border-bottom: 1px solid #fff;}
+header ul li a p:hover{border-bottom: 1px solid #C01528;}

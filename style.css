@@ -818,7 +818,7 @@ blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre {
 }
 .border-\[\#dadada\] {
     --tw-border-opacity: 1 !important;
-    border-color: rgb(218 218 218/ 1!important) !important;
+    border-color: rgb(218 218 218/ 1) !important;
 }
 .border {
     border-width: 1px !important;

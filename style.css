@@ -248,3 +248,16 @@ a {
     line-height: 1.33333;
     letter-spacing: .32px;
 }
+
+@media (min-width: 672px) {
+    .md\:mt-\[32px\] {
+        margin-top: 32px;
+    }
+}
+
+.heading-01 {
+    font-size: .875rem;
+    font-weight: 600;
+    line-height: 1.25;
+    letter-spacing: .16px;
+}

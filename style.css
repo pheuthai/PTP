@@ -294,6 +294,7 @@ a {
 @media (min-width: 672px) {
     .md\:w-\[50\%\] {
         width: 50%;
+        transform: translateX(0) !important;
     }
 }
 

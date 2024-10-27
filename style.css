@@ -716,8 +716,6 @@ a {
 .border-t {
     border-top-width: 1px !important;
 }
-.max-w-\[288px\] {
-}
 
 @media (min-width: 768px) {
     .md\:w-\[150px\] {
@@ -865,5 +863,5 @@ blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre {
     }
 }
 .max-w-\[288px\] {
-    max-width: 288px !important;
+    max-width: 288px;
 }

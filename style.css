@@ -251,7 +251,7 @@ a {
 
 @media (min-width: 672px) {
     .md\:mt-\[32px\] {
-        margin-top: 32px;
+        margin-top: 16px;
     }
 }
 

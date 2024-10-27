@@ -162,6 +162,7 @@ header ul li a p:hover{border-bottom: 1px solid #C01528;}
     }
 }
 .fluid-heading-05 {
+    color: #C01528;
     font-size: 2rem;
     line-height: 1.25;
     letter-spacing: 0;
@@ -256,6 +257,7 @@ a {
 }
 
 .heading-01 {
+    color: #ff6412;
     font-size: .875rem;
     font-weight: 600;
     line-height: 1.25;

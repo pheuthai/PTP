@@ -686,7 +686,7 @@ a {
 /* LIST */
 
 .flex-col {
-    flex-direction: column !important;
+    flex-direction: column ;
 }
 
 @media (min-width: 768px) {
@@ -791,7 +791,7 @@ blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre {
     text-align: left !important;
 }
 .flex-col {
-    flex-direction: column !important;
+    flex-direction: column ;
 }
 .ml-\[20px\] {
     margin-left: 20px !important;

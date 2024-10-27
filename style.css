@@ -135,7 +135,6 @@ header ul li a p:hover{border-bottom: 1px solid #C01528;}
 }
 
 .max-w-\[900px\] {
-    max-width: 900px;
 }
 
 @media (min-width: 672px) {
@@ -179,7 +178,6 @@ header ul li a p:hover{border-bottom: 1px solid #C01528;}
 }
 @media (min-width: 672px) {
     .md\:max-w-\[224px\] {
-        max-width: 224px;
     }
 }
 @media (min-width: 672px) {
@@ -693,12 +691,9 @@ a {
 
 @media (min-width: 768px) {
     .md\:max-w-\[1024px\] {
-        max-width: 1024px !important;
     }
 }
-.max-w-\[288px\] {
-    max-width: 288px !important;
-}
+
 .w-full {
     width: 100% !important;
 }
@@ -711,7 +706,6 @@ a {
 
 @media (min-width: 768px) {
     .md\:max-w-\[1024px\] {
-        max-width: 1024px !important;
     }
 }
 
@@ -723,7 +717,6 @@ a {
     border-top-width: 1px !important;
 }
 .max-w-\[288px\] {
-    max-width: 288px !important;
 }
 
 @media (min-width: 768px) {

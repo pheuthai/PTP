@@ -747,7 +747,6 @@ a {
     }
 }
 .typo-h6 {
-    font-family: Kanit, ui-sans-serif;
     font-size: 18px;
     font-weight: 600;
     line-height: 1.25;
@@ -808,7 +807,6 @@ blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre {
     }
 }
 .typo-h3 {
-    font-family: Kanit, ui-sans-serif;
     font-size: 28px;
     font-weight: 600;
     line-height: 1.25;
@@ -816,9 +814,6 @@ blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre {
 
 .text-\[9pt\] {
     font-size: 9pt !important;
-}
-.font-body {
-    font-family: Anuphan, ui-serif !important;
 }
 .p-\[10px\] {
     padding: 10px !important;

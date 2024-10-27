@@ -286,3 +286,10 @@ a {
 .grid {
     display: grid;
 }
+
+
+@media (min-width: 672px) {
+    .md\:flex-row {
+        flex-direction: row;
+    }
+}

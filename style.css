@@ -851,7 +851,7 @@ blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre {
     justify-content: center !important;
 }
 .flex-col {
-    flex-direction: column !important;
+    flex-direction: column ;
 }
 .w-\[100px\] {
     width: 100px !important;

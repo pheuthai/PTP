@@ -110,10 +110,6 @@ header ul li a p:hover{border-bottom: 1px solid #C01528;}
         padding-right: 64px;
     }
 }
-.px-\[16px\] {
-    padding-left: 16px;
-    padding-right: 16px;
-}
 
 @media (min-width: 672px) {
     .md\:py-\[48px\] {

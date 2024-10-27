@@ -762,16 +762,13 @@ blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre {
     flex: 1 1 0% !important;
 }
 
-@media (min-width: 768px) {
+
     .md\:w-\[80px\] {
         width: 80px !important;
     }
-}
-@media (min-width: 768px) {
     .md\:h-\[80px\] {
         height: 80px !important;
     }
-}
 .object-top {
     -o-object-position: top !important;
     object-position: top !important;

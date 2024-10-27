@@ -16,7 +16,8 @@ body{
 
 .bg-gray-100 {
     --tw-bg-opacity: 1;
-    background-color: #C01528;
+    background-color: #fff;
+    border-bottom: 2px solid #C01528;
 }
 .justify-start {
     justify-content: space-around;

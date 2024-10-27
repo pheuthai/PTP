@@ -857,3 +857,13 @@ blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre {
 .flex {
     display: flex !important;
 }
+
+
+@media (min-width: 768px) {
+    .md\:max-w-\[1024px\] {
+        max-width: 1024px !important;
+    }
+}
+.max-w-\[288px\] {
+    max-width: 288px !important;
+}

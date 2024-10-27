@@ -262,3 +262,27 @@ a {
     line-height: 1.25;
     letter-spacing: .16px;
 }
+
+
+
+@media (min-width: 672px) {
+    .md\:py-\[32px\] {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+}
+@media (min-width: 672px) {
+    .md\:gap-\[24px\] {
+        gap: 24px;
+    }
+}
+.py-\[16px\] {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.gap-\[16px\] {
+    gap: 16px;
+}
+.grid {
+    display: grid;
+}

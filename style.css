@@ -86,4 +86,5 @@ a {
 
 header ul{
     list-style-type: none;
+    padding-inline-start: 40px;
 }

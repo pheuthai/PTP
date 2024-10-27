@@ -677,3 +677,7 @@ a {
 .w-\[152px\] {
     width: 152px;
 }
+
+.bg-\[var\(--color\)\] {
+    background-color: var(--color);
+}
